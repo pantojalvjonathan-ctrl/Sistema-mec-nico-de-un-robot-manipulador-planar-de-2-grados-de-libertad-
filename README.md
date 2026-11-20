@@ -1,0 +1,1 @@
+# Sistema-mec-nico-de-un-robot-manipulador-planar-de-2-grados-de-libertad-
